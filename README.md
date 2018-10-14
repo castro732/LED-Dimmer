@@ -1,4 +1,4 @@
-#LED Dimmer
+# LED Dimmer
 
 ![3D Top View](3DModel/Dimmer_SU2.png)
 
